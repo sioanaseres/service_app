@@ -13,7 +13,7 @@ const Documents = () => {
       <div className={layout.sectionInfo}>
         <h3 className={`${styles.heading3} mb-3`}>*DOCUMENTE <br />
         Ce acte să pregătești pentru deschiderea dosarului de daună?</h3>
-        <ol className='text-dimWhite text-[16px] list-disc font-poppins leading-[30px] ml-4'>
+        <ol className='text-dimWhite text-[18px] list-disc font-poppins leading-[30px] ml-4'>
             <li><em className='text-gradient'>Document</em> constatator al producerii evenimentului (proces verbal la Poliție, constatare amiabilă, anexa 2)</li>
             <li><em className='text-gradient'>Autorizație de reparație</em>, dacă este cazul (în original)</li>
             <li>Copie <em className='text-gradient'>poliță de asigurare</em> RCA/ CASCO</li>

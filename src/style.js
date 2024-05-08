@@ -3,7 +3,7 @@ const styles = {
     boxWidth: "xl:max-w-[1280px] w-full",
   
     heading2: "font-poppins font-semibold xs:text-[48px] text-[40px] text-white xs:leading-[76.8px] leading-[66.8px] w-full",
-    heading3:"font-poppins font-semibold xs:text-[32px] text-[28px] text-white xs:leading-[36.8px] leading-[26.8px] w-full",
+    heading3:"font-poppins font-semibold xs:text-[32px] text-[28px] text-white xs:leading-[36.8px] leading-[34px] w-full",
     paragraph: "font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px]",
     input: "block p-2.5 w-full mb-3 text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500",
   
