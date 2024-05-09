@@ -30,7 +30,7 @@ const Contact = () => {
         <h3 className={`${styles.heading3}`}>*CONTACT <br />
     Rezolvă-ți astăzi dauna rapid, mai simplu și mai eficient!</h3>
       <p className={`${styles.paragraph} mt-3 mb-3`}>Contactează-ne la <a href="tel:+40734444765" className='underline'> +40734444765 </a>, 
-scrie-ne la <a href="mailto:office@autodaune.ro" className='underline'>office@autodaune.ro</a> sau completeaza formularul de mai jos:</p>
+scrie-ne la <a href="dauneautoasistenta@gmail.com" className='underline'>dauneautoasistenta@gmail.com</a> sau completeaza formularul de mai jos:</p>
    
       </div>
       <form ref={form} onSubmit={sendEmail} action="" className='font-poppins text-white flex flex-col md:max-w-[600px] max-w-[90%]'>
