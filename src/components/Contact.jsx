@@ -29,7 +29,7 @@ const Contact = () => {
       <div className=' flex flex-col'>
         <h3 className={`${styles.heading3}`}>*CONTACT <br />
     Rezolvă-ți astăzi dauna rapid, mai simplu și mai eficient!</h3>
-      <p className={`${styles.paragraph} mt-3 mb-3`}>Contactează-ne la <a href="tel:+40734444765" className='underline'> 0734444765</a>, 
+      <p className={`${styles.paragraph} mt-3 mb-3`}>Contactează-ne la <a href="tel:+40786622000" className='underline'> 0786 622 000</a>, 
 scrie-ne la <a href="mailto:dauneautoasistenta@gmail.com" className='underline' style={{overflowWrap: 'break-word'}}>dauneautoasistenta@gmail.com</a> sau completeaza formularul de mai jos:</p>
    
       </div>

@@ -55,7 +55,7 @@ export const featureCards = [
     icon: phone,
     title: "Contact",
     content:
-      "	Sună la 0734 444 765 și imediat un consilier îți va comunica pașii necesari instrumentării dosarului de daună. Te vom ajuta cu toate informațiile, pozele și documentele necesare deschiderii dosarului de daună. Știm cât de neplacută este experiența unei daune auto, de aceea suntem aici să te ajutăm și să te consiliem în fiecare pas. ",
+      "	Sună la 0786 622 000 și imediat un consilier îți va comunica pașii necesari instrumentării dosarului de daună. Te vom ajuta cu toate informațiile, pozele și documentele necesare deschiderii dosarului de daună. Știm cât de neplacută este experiența unei daune auto, de aceea suntem aici să te ajutăm și să te consiliem în fiecare pas. ",
   },
   {
     id: "feature-2",
