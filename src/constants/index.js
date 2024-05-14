@@ -24,7 +24,7 @@ export const cards = [
     icon: clipboard,
     title: "Programare Rapidă",
     content:
-      "Sună la 0734 444 765 și vei fi preluat imediat pentru deschiderea dosarului de daună",
+      "Sună la 0786 622 000 și vei fi preluat imediat pentru deschiderea dosarului de daună",
   },
   {
     id: "card-2",
